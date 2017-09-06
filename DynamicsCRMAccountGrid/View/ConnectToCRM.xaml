@@ -1,0 +1,19 @@
+﻿<Window x:Class="DynamicsCRMAccountGrid.View.ConnectToCRM"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
+        Title="ConnectToCRM" Height="309" Width="300" WindowStartupLocation="CenterScreen">
+    
+        <StackPanel Orientation="Vertical" DockPanel.Dock="Top">
+            <Label Content="Connect to CRM" Background="#FFCBBCBC"  />
+            <Label Content="User Name: " />
+            <TextBox Name="txtUserName" Margin="25,0,25,0"  />
+            <Label Content="Password: " />
+            <PasswordBox Name="txtPassword" Margin="25,0,25,0" ></PasswordBox>
+            <Button x:Name="btnSaveData" Content="Connect" Click="btnSaveData_Click" Margin="25,20,25,5" PreviewMouseDown="btnSaveData_PreviewMouseDown" />
+        <fa:ImageAwesome Icon="Spinner" Spin="True" SpinDuration="4"  Width="30" Name="spinner" Visibility="Hidden"/>
+        <Label x:Name="result" Height="41" Foreground="Red" FontWeight="Bold"/>
+    </StackPanel>
+        
+  
+</Window>

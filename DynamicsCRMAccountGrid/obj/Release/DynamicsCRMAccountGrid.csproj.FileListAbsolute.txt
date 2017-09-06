@@ -1,0 +1,27 @@
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\DynamicsCRMAccountGrid.exe.config
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\DynamicsCRMAccountGrid.exe
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\DynamicsCRMAccountGrid.pdb
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\FontAwesome.WPF.dll
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\Microsoft.IdentityModel.dll
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\Microsoft.Xrm.Sdk.dll
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\WPFToolkit.dll
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\FontAwesome.WPF.xml
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\bin\Release\Microsoft.Xrm.Sdk.xml
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\View\ConnectToCRM.baml
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\View\ConnectToCRM.g.cs
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\View\MainWindow.g.cs
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\App.g.cs
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\GeneratedInternalTypeHelper.g.cs
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\DynamicsCRMAccountGrid_MarkupCompile.cache
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\DynamicsCRMAccountGrid_MarkupCompile.lref
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\View\MainWindow.baml
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\DynamicsCRMAccountGrid.g.resources
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\DynamicsCRMAccountGrid.Properties.Resources.resources
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\DynamicsCRMAccountGrid.csproj.GenerateResource.Cache
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\DynamicsCRMAccountGrid.exe
+\\VBOXSVR\vm\DataGrid_MVVM\DataGrid_MVVM\DataGridOpsDemo\obj\Release\DynamicsCRMAccountGrid.pdb
+C:\Users\Ali\Documents\Visual Studio 2012\Projects\DynamicsCRM\DynamicsCRMAccountGrid\DynamicsCRMAccountGrid\bin\Release\DynamicsCRMAccountGrid.exe.config
+C:\Users\Ali\Documents\Visual Studio 2012\Projects\DynamicsCRM\DynamicsCRMAccountGrid\DynamicsCRMAccountGrid\obj\Release\DynamicsCRMAccountGrid.exe
+C:\Users\Ali\Documents\Visual Studio 2012\Projects\DynamicsCRM\DynamicsCRMAccountGrid\DynamicsCRMAccountGrid\obj\Release\DynamicsCRMAccountGrid.pdb
